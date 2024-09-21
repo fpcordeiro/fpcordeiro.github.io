@@ -14,6 +14,7 @@ author_profile: true
 | Introduction to Data Analysis and Econometrics  | Undergraduate | Nick Ryan | Fall 2021 |
 | Introduction to Microeconomics | Undergraduate | Penny Goldberg | Spring 2022 |
 | Intermediate Microeconomics | Undergraduate | Eva Chalioti | Fall 2023 |
+| Introduction to Data Analysis and Econometrics  | Undergraduate | Guillermo Noguera | Spring 2024 |
 
 ## FGV EPGE (Teaching Assistant)
 
