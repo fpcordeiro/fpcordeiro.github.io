@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume in pdf](https://fpcordeiro.github.io/files/Cordeiro_Fernando_Resume.pdf)
+[CV/Resume in pdf](https://fpcordeiro.github.io/files/Cordeiro_Fernando_CV.pdf)
 
 <!-- Education
 ======
