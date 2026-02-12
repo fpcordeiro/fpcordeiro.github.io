@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
 <!-- <div class="figure_aboutme">
   <img src="https://fpcordeiro.github.io/images/profile_aboutme.jpg" />
 </div> -->
 
-I am a Senior Associate at Charles River Associates' Antitrust and Competition practice. I recently received my PhD in Economics from Yale University.
+I am a Senior Associate in the Antitrust and Competition practice at Charles River Associates. I received my Ph.D. in Economics from Yale University, where my research focused on industrial organization, the economics of education, and applied econometrics.
 
-My research interests are in Industrial Organization, Economics of Education, and Applied Econometrics.
-
-Feel free to contact me at [fernandolpcordeiro@gmail.com](mailto:fernandolpcordeiro@gmail.com) or [fernando.cordeiro@yale.edu](mailto:fernando.cordeiro@yale.edu)
+Feel free to contact me at [fernandolpcordeiro@gmail.com](mailto:fernandolpcordeiro@gmail.com)
