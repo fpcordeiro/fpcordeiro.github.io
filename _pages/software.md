@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### CRAN Packages
-- **[`choicer`](https://github.com/fpcordeiro/choicer)**
+- **[`choicer`](https://cran.r-project.org/package=choicer)**
     ><span style="font-size:0.75em">`choicer` provides fast estimation of discrete-choice models for applied economics. Likelihoods, analytical gradients, and Hessians are implemented in C++ with OpenMP parallelism, scaling efficiently to specifications with many alternative-specific constants. Post-estimation routines return predicted shares, own- and cross-price elasticities, diversion ratios, and the BLP contraction. Supports multinomial logit (MNL), mixed logit (MXL), and nested logit (NL); more models will be added.</span>
 
 - **[`tidyaudit`](https://cran.r-project.org/package=tidyaudit)**
